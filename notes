@@ -1,0 +1,54 @@
+<center> <!-- allignment -->
+
+<h1> Heading goes from 1 to 6 </h1>
+
+<br> <!-- line break -->
+
+<hr size="3" noshade> <!-- Line and thickness -->
+
+ <meta charset="utf-8"> <!-- language -->
+
+ <body> Content <body>
+  <p> Paragraph </p>
+
+  <ol type = "I"> <!-- Lista Ordenada, pelo "type" escolho como ordenar (por exemplo romano)-->
+    <li>Esportes</li>
+    <li>Cozinhar</li>
+    <li>Pescar</li>
+  </ol>
+
+  <ul> <!-- Lista sem ordenação -->
+  <li>
+    Primeiro
+  <li/>
+  <li>
+    Segundo
+  <li/>
+  <ul/>
+
+  <em> Itálico <em/>
+
+   <img src="String.png"> <!-- Inserir Imagem -->
+
+   <table border="3"> <!-- Fazer tabela e depois espessura da borda -->
+     <thead>        <!-- Header que eu quero, um a um -->
+       <tr>       <!-- Row -->
+         <th>Dates</th> <!-- Vou colocando quantas celulas eu quiser -->
+         <th>Work</th>
+       </tr>
+     </thead>
+     <tbody>
+
+     </tbody>
+     <tfoot>
+
+     </tfoot>
+     <tr>
+       <td>2014-2020</td>
+       <td>Técnico Pleno - IPT</td>
+     </tr>
+     <tr>
+       <td>2012</td>
+       <td>Estágio - CETESB</td>
+     </tr>
+   </table>
